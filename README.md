@@ -11,8 +11,8 @@ Asjad Anis - 614712<br>
 # Vision Document
 https://docs.google.com/document/d/1BPCDJcIxjISRjp4N3T2Uc5rKWMmKFU_8T_dtuCYawqM/edit?usp=sharing
 
-# System Requirements Specification - DRAFT
-Use case Model - DRAFT<br>
+# System Requirements Specification
+Use case Model<br>
 https://docs.google.com/document/d/1ih8OS7hbIGJ0p7-nCC8d0aNhoygsjxWiVZ7nOEY40LI/edit?usp=sharing
 
 # System Architecture Design
