@@ -13,7 +13,9 @@ https://docs.google.com/document/d/1BPCDJcIxjISRjp4N3T2Uc5rKWMmKFU_8T_dtuCYawqM/
 
 # System Requirements Specification
 Use Case Model<br>
-https://docs.google.com/document/d/1ih8OS7hbIGJ0p7-nCC8d0aNhoygsjxWiVZ7nOEY40LI/edit?usp=sharing
+https://docs.google.com/document/d/1ih8OS7hbIGJ0p7-nCC8d0aNhoygsjxWiVZ7nOEY40LI/edit?usp=sharing <br><br>
+Sequence Diagrams<br>
+https://docs.google.com/document/d/1UkfrjkIpSL9_mzpDZxPpfm1OrZOdlk_qcmibShu7d7Y/edit?usp=sharing
 
 # System Architecture Design
 ![alt text](https://github.com/autodidactGuy/eShopper/blob/main/documents/SWE_eShopper_System_Architecture.png?raw=true)
